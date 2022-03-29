@@ -7,6 +7,7 @@ $coffee_store = array(
     "Mocca" => 21,
     
 );
+
 // creat other varible 
 // foreach ($coffee_store as $coffee => $price) {
 //     echo $coffee . " coast: $" . $price . "USD" . "\n"; 
